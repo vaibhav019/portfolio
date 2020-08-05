@@ -1,0 +1,47 @@
+export const skills = {
+    heading: "Skills",
+    quote: "Build your skills, not your resume",
+    techSkills: [
+        "Html5",
+        "JavaScript",
+        "NodeJS",
+        "ReactJS",
+        "Redux",
+        "oracle",
+        "C",
+        "Data structure and algorithms",
+        "Java",
+        "jdbc",
+        "servlet",
+        "jsp",
+        "Python",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Bootstrap",
+        "Git",
+        "GitHub",
+        "MongoDB",
+    ],
+    industryKnowledge: [
+        "Software",
+        "Blogging",
+        "Web Content",
+        "Frontend",
+        "Software",
+        "Backend",
+        "Web",
+    ],
+    interpersonalSkills: [
+        "Communication",
+        "Time Management",
+        "Leadership",
+        "Management"
+    ],
+    certification : [
+     "",
+     "",
+     "",
+     ""
+    ],
+};
